@@ -2,7 +2,7 @@ name: 'Picage Auto Sign'
 
 on:
   schedule:
-    - cron: '5 16,22 * * *'
+    - cron: '5 08,01 * * *'
   workflow_dispatch:
 
 jobs:
